@@ -1,0 +1,28 @@
+{
+  "name": "xffecd-fis-smarty-solution",
+  "version": "0.1.0",
+  "description": "fis3 config for smarty template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xffecd/fis-smarty-solution.git"
+  },
+  "keywords": [
+    "fis3"
+  ],
+  "dependencies": {
+    "fis-optimizer-uglify-js": "*",
+    "fis-optimizer-clean-css": "*",
+    "fis-optimizer-png-compressor": "*",
+    "fis3-hook-commonjs": "*"
+  },
+  "author": "xffecd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xffecd/fis-smarty-solution/issues"
+  },
+  "homepage": "https://github.com/xffecd/fis-smarty-solution",
+}
