@@ -17,7 +17,7 @@
     "fis-optimizer-uglify-js": "*",
     "fis-optimizer-clean-css": "*",
     "fis-optimizer-png-compressor": "*",
-    "fis3-hook-commonjs": "*"
+    "fis3-hook-cmd": "*"
   },
   "author": "xffecd",
   "license": "MIT",
